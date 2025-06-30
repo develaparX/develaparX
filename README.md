@@ -63,3 +63,5 @@ Open to open-source collabs, freelance backend gigs, or deep-dive consultations 
 > *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 Let’s write better code, together. 💻✨
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=develaparX)](https://github.com/anuraghazra/github-readme-stats)
