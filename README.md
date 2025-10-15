@@ -59,8 +59,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=develaparx" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develaparx&layout=donut-vertical&hide=python" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=develaparx" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develaparx&layout=donut-vertical&hide=python" height="250" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=develaparx" height="300" alt="activity-graph graph"  />
 </div>
 
