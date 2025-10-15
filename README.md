@@ -1,65 +1,67 @@
-# 👨‍💻 Arfian Saiful Rifa'i — [@develaparX](https://github.com/develaparX)
+<h2 align="left">Hi 👋! I'm Arfian Saiful R - Software Engineer (wannabe)  ~</h2>
 
-Hi there, welcome to my GitHub! 👋
-I'm a passionate **software developer** who loves building both backend and frontend applications using clean, modular, and scalable architecture. My toolbox includes technologies like **Golang**, **Node.js**, and **React**, and I love getting my hands dirty managing databases with **PostgreSQL**. I also enjoy streamlining development with **DevOps practices** using **Docker**.
+###
 
-Whether you're here to check out my projects, explore new ideas, or just browsing — glad to have you here!
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=develaparx.develaparx&"  />
+</div>
 
----
+###
 
-## 🚀 Tech Stack at a Glance
+<p align="left">Welcome to my little corner of GitHub!<br><br>I'm a software developer who absolutely loves building applications, from the server-side to what you see in the browser. I'm all about writing clean code that's easy to scale.<br><br>My favorite tech to play with? Of course, Golang.<br><br>Whether you're here to see my work, find some inspiration, or just browsing—make yourself at home!<br><br>I'm always excited to connect with fellow developers. If you want to collaborate on something cool or just talk tech, don't hesitate to get in touch!</p>
 
-Here’s what I’m currently working with:
+###
 
-* **Backend**: Golang, Node.js, Express.js, NestJS
-* **Frontend**: React.js, TailwindCSS, Next.js
-* **Database**: PostgreSQL, MongoDB
-* **DevOps**: Docker, Nginx, GitHub Actions
-* **Tools**: REST API, JWT, gRPC, RabbitMQ, Swagger
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="30" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
+</div>
 
----
+###
 
-## 🌟 Featured Projects
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+</div>
 
-Take a look at some of the projects I’ve been pouring my energy into:
+###
 
-* 🧾 [**multiwallet-selling**](https://github.com/develaparX/multiwalletsell-arena-golang)
-  A service to automate \$ARENA token selling — fully functional and no wrapper required (private wrapper version also exists).
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+</div>
 
-* 💸 [**inventory-management**](https://github.com/develaparX/inventory-management)
-  A clean and responsive admin layout for inventory management, built with Next.js and styled with TailwindCSS.
+###
 
-* 🧺 [**clear-architecture-laundry**](https://github.com/develaparX/clear-architecture-laundry)
-  A laundry app built with Go, designed as a case study in clean architecture — ideal for developers exploring best practices.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=develaparx" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=develaparx&layout=donut-vertical&hide=python" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=develaparx" height="300" alt="activity-graph graph"  />
+</div>
 
----
-
-## 📚 Writings & Docs
-
-I enjoy breaking down technical topics and financial concepts into clear, readable explanations. You’ll find content on:
-
-* Software architecture principles
-* Backend systems and deployment
-* Financial literacy and investment tips
-  All written with clarity and an engaging style. Curious minds welcome!
-
----
-
-## 📬 Get in Touch
-
-Let’s connect and collaborate:
-
-* 💼 [LinkedIn](https://linkedin.com/in/arfian-sr)
-* 📧 Email: [srarfian@gmail.com](mailto:srarfian@gmail.com)
-
----
-
-## 🤝 Let’s Collaborate
-
-Open to open-source collabs, freelance backend gigs, or deep-dive consultations on app architecture and deployment. If you’ve got a cool idea or project, don’t hesitate to reach out — I’d love to hear about it!
-
----
-
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
-
-Let’s write better code, together. 💻✨
+###
